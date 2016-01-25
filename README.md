@@ -9,9 +9,12 @@ Forum thread: http://steamcommunity.com/app/340490/discussions/2/615086038662590
 
 
 # Переводчики:
+<<<<<<< HEAD
 
 
 Основной:
+=======
+>>>>>>> aa94f3ae2edc9cba839c643144172bf032d3c609
 DarelBlacK http://steamcommunity.com/id/DarelBlacK
 
 Дополнительные:
