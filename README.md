@@ -11,7 +11,7 @@ Forum thread: http://steamcommunity.com/app/340490/discussions/2/615086038662590
 # Переводчики:
 
 
-## Основной:
+## Основные:
 1. **DarelBlacK** http://steamcommunity.com/id/DarelBlacK
 1. **Ony** http://steamcommunity.com/id/oniki/
 
@@ -19,6 +19,11 @@ Forum thread: http://steamcommunity.com/app/340490/discussions/2/615086038662590
 1. 
 2. 
 3. 
+
+
+
+
+
 
 
 # Thanks Pixellore team for this great game.
