@@ -469,11 +469,11 @@ storage_weight = Вес
 storage_get_item = Взять всё
 
 repairbay_title = Нано-реконструкционная станция
-repairbay_notice = Нано-реконструкционная станция может медленно восстанавливать прочность предметов, используя нано-технологии
+repairbay_notice = Нано-реконструкционная станция может медленно восстанавливать прочность предметов, используя нанотехнологию
 repairbay_complete = Завершено
-repairbay_speed = Скорость починки
-repairbay_maxdurability = Восстанавливает прочность до
-repairbay_maxslot = Чинится в текущий момент
+repairbay_speed = Скорость починки:
+repairbay_maxdurability = Восстановление прочности до:
+repairbay_maxslot = Доступно ремонтных ячеек:
 
 slot_get_item = Взять всё
 slot_upgrade_3dprinter = ПО для 3D принтера
