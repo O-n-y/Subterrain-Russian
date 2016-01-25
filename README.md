@@ -13,7 +13,12 @@ Forum thread: http://steamcommunity.com/app/340490/discussions/2/615086038662590
 
 ## Основной:
 1. **DarelBlacK** http://steamcommunity.com/id/DarelBlacK
-
-## Дополнительные:
 1. **Ony** http://steamcommunity.com/id/oniki/
 
+## Дополнительные:
+1.
+2.
+3.
+
+
+# Thanks Pixxellore team for this great game.
