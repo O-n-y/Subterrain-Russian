@@ -10,7 +10,10 @@ Forum thread: http://steamcommunity.com/app/340490/discussions/2/615086038662590
 
 # Переводчики:
 
+
+Основной:
 DarelBlacK http://steamcommunity.com/id/DarelBlacK
 
+Дополнительные:
 Ony http://steamcommunity.com/id/oniki/
 
