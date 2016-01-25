@@ -2,13 +2,13 @@
 
 Interface localization for game Subterrain.
 
-Здесь содержится локализация интерфейса для игры Subterrain.
+Р—РґРµСЃСЊ СЃРѕРґРµСЂР¶РёС‚СЃСЏ Р»РѕРєР°Р»РёР·Р°С†РёСЏ РёРЅС‚РµСЂС„РµР№СЃР° РґР»СЏ РёРіСЂС‹ Subterrain.
 
 
 Forum thread: http://steamcommunity.com/app/340490/discussions/2/615086038662590474/
 
 
-# Переводчики:
+# РџРµСЂРµРІРѕРґС‡РёРєРё:
 DarelBlacK http://steamcommunity.com/id/DarelBlacK
 Ony http://steamcommunity.com/id/oniki/
 
