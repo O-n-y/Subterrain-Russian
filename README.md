@@ -21,4 +21,4 @@ Forum thread: http://steamcommunity.com/app/340490/discussions/2/615086038662590
 3. 
 
 
-# Thanks Pixxellore team for this great game.
+# Thanks Pixellore team for this great game.
