@@ -1,6 +1,6 @@
 # Subterrain-Russian
 
-Interface localization for game Subterrain.
+Interface localization into Russian language for game Subterrain.
 
 Здесь содержится локализация интерфейса для игры Subterrain.
 
