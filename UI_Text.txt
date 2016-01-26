@@ -11,6 +11,9 @@ mainmenu_option_instruction = Настройка игровых опций
 mainmenu_credits_instruction = Разработчики Subterrain
 mainmenu_exit_instruction = Выйти из игры
 
+releasenote_title = О версии:
+releasenote_closeinstruction = ЗАКРЫТЬ ОКНО
+
 demo_speech_unable = Невозможно использовать метро в демо версии!
 demo_notice_title = Демо уведомление
 demo_notice_content = Спасибо, что попробовали демо-версию игры Subterrain.\n\nПожалуйста, поддержите нас купив полную версию игры в Steam!\n\nСпасибо вам огромное!
