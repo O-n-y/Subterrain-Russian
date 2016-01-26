@@ -474,6 +474,7 @@ repairbay_complete = Завершено
 repairbay_speed = Скорость починки:
 repairbay_maxdurability = Восстановление прочности до:
 repairbay_maxslot = Доступно ремонтных ячеек:
+repairbay_inactive = Неактивно
 
 slot_get_item = Взять всё
 slot_upgrade_3dprinter = ПО для 3D принтера
@@ -482,7 +483,7 @@ slot_upgrade_bioaccelerator = ПО Биоускорителя
 slot_upgrade_oreextractor = ПО Экстрактора руды
 slot_upgrade_research_tech = ПО Техисследований
 slot_upgrade_research_bio = ПО Биоисследования
-slot_upgrade_repair = Nano Repair Software
+slot_upgrade_repair = ПО Нано-реконструкционной станции
 slot_shuttle_fuel_storage = Топливное хранилище
 slot_shuttle_navigation = Навигационный модуль
 slot_oxygen_generator = Генератор кислорода
