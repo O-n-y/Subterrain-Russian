@@ -272,7 +272,7 @@ newgame_permdeath = Перманентная смерть
 
 warning_invasion_before_title = ВНИМАНИЕ
 warning_invasion_before_subtitle = НАШЕСТВИЕ МУТАНТОВ
-warning_invasion_before_detail = Генератор Центрального управления под атакой!\nМутированные создания приближаются к генератору с 3х разных направлений.\nМутанты попытаются уничтожить все реакторы на генераторе.\nВо время данной тревоги Вест не может перемещаться с помощью метро или лестниц.\nВо время нашествия невозможно сохранить игру.\nВест должен защитить генератор и уничтожить всю угрозу для отключения блокировки системы безопасности.
+warning_invasion_before_detail = Генератор Центрального управления под атакой!\nМутированные создания приближаются к генератору с 3х разных направлений.\nМутанты попытаются уничтожить все модули на генераторе.\nВо время данной тревоги Вест не может перемещаться с помощью метро или лестниц.\nВо время нашествия невозможно сохранить игру.\nВест должен защитить генератор и уничтожить всю угрозу для отключения блокировки системы безопасности.
 warning_invasion_after_title = УСПЕХ
 warning_invasion_after_subtitle = ВСЯ ВРАЖДЕБНАЯ АКТИВНОСТЬ БЫЛА УНИЧТОЖЕНА
 warning_invasion_after_detail = Нашествие мутантов было уничтожено.\nБлокировка системы безопасности Центрального управления была отключена.
@@ -281,7 +281,7 @@ warning_overheat_subtitle = ГЕНЕРАТОР ПЕРЕГРЕВАЕТСЯ
 warning_overheat_detail = Генератор использует больше энергии, чем может поддерживать.\nВест должен вернуться к консоли управления питанием и распределить питание.\nЕсли Вест не успеет вернуться в Центральное управление вовремя,\nсработает отключение питания и Вест застрянет в отдалённых от Центра управления местах.
 
 itemdetail_gun_craft_item = Часть оружия
-itemdetail_core = Основа
+itemdetail_core = Ресивер
 itemdetail_barrel = Ствол
 itemdetail_heatsink = Радиатор
 itemdetail_assembled_range_weapon = Собранное стрелковое оружие
@@ -491,7 +491,7 @@ slot_shuttle_fuel_storage = Топливное хранилище
 slot_shuttle_navigation = Навигационный модуль
 slot_oxygen_generator = Генератор кислорода
 slot_temperature_regulator = Регулятор температуры
-slot_generator_reactor = Реакторы генератора
+slot_generator_reactor = Модули генератора
 slot_generator_turret = Турель безопасности
 
 jobqueue_required_software = Требуется ПО
@@ -686,7 +686,7 @@ map_generator_connected = СОЕДИНЕН
 map_generator_disconnected = РАЗЪЕДИНЕН
 map_generator_probability = Вероятность
 map_generator_overheating = ПЕРЕГРЕВ!
-map_generator_reactormap_title = Статус реакторов
+map_generator_reactormap_title = Статус модулей
 map_generator_turretstatus = Статус турелей
 
 map_operator_3dprinter = 3D ПРИНТЕР
