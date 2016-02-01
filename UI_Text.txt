@@ -466,7 +466,7 @@ storage_craft_title = Хранилище продукции
 storage_combine_title = Биохранилище
 storage_farm_title = Хранилище инкубатора
 storage_mine_title = Хранилище экстрактора
-storage_material_title = Общее хранилище
+storage_material_title = Хранилище Материалов
 storage_capacity = Вместимость
 storage_weight = Вес
 storage_get_item = Взять всё
@@ -558,13 +558,13 @@ combine_catalog3_tab4 = ЧИП МОДИФИКАТОРА ТЕЛА
 combine_blueprint_title = Чертёж
 
 farm_title = Биосфера
-farm_controller = MPO УСКОРИТЕЛЬ БИОСФЕРЫ
+farm_controller = MPO БИОСФЕРА - УСКОРИТЕЛЬ
 farm_start = НАЧАТЬ ВЫРАЩИВАНИЕ
 farm_map_title = MPO Генетическая карта
 
 mine_title = Управление шахтой
-mine_controller = MPO ЭКСТРАКТОР ШАХТЫ
-mine_start = НАЧАТЬ ИЗВЛЕЧЕНИЕ
+mine_controller = MPO ЭКСКАВАТОР ШАХТЫ
+mine_start = НАЧАТЬ ДОБЫЧУ
 mine_map_title = MPO Карта шахты
 
 refine_title = Переработка руды
