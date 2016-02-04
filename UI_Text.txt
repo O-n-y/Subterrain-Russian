@@ -310,7 +310,7 @@ itemdetail_heat_cooldown_rate = ОХЛАЖДЕНИЕ
 itemdetail_critical = КРИТИЧЕСКИЙ ШАНС
 itemdetail_silencer = ГЛУШИТЕЛЬ
 itemdetail_laser_sight = ЛАЗЕРНЫЙ ПРИЦЕЛ
-itemdetail_res_physical = ЗАЩ. ФИЗИЧЕСКАЯ
+itemdetail_res_physical = ЗАЩ.ФИЗИЧЕСКАЯ
 itemdetail_res_infection = ЗАЩ.ОТ ИНФЕКЦИИ
 itemdetail_lifesupport = ЖИЗНЕОБЕСПЕЧЕНИЕ
 itemdetail_mobility = ПОДВИЖНОСТЬ
@@ -332,7 +332,7 @@ door_broken = Сломанная дверь
 door_locked_remote = Закрыто, удалённо-управляемая дверь.
 door_locked_keypass = Закрыто, требуется ключ-карта.
 door_remote = Удалённо-управляемая дверь.
-door_unlockable_keypass = Открываем ключ-картой
+door_unlockable_keypass = Требуется ключ-карта.
 door_locked_nopass = Закрыто, не могу открыть ключ-картой.
 
 elevator_title = Лифт
@@ -835,7 +835,7 @@ speech_didn't_play_here = Я редко здесь играл..
 speech_research_kitchen1 = Кухня... Никогда тут не готовил..
 speech_research_kitchen2 = Доктор Кан тут готовил хорошие сандвичи.
 speech_research_baxter1 = Офис Агаты Бакстер.
-speech_research_baxter2 = Она заправляла в исследовательском центре Герберт.
+speech_research_baxter2 = Она заправляла в Научном центре Герберт.
 speech_research_baxter3 = Та ещё женщина. Кошатница.
 speech_my_old_room = Моя старая комната...
 
