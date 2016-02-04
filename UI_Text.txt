@@ -471,6 +471,7 @@ split_title = Разделить стек
 split_split = Разделить
 split_close = Закрыть
 
+storage_tube_title = Хранилище метро
 storage_craft_title = Хранилище продукции
 storage_combine_title = Биохранилище
 storage_farm_title = Хранилище инкубатора
