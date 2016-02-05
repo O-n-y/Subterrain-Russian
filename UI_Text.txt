@@ -57,6 +57,7 @@ setting_German = Немецкий
 setting_Russian = Русский
 setting_French = Французский
 setting_Spanish = Испанский
+setting_Italian = Итальянский
 setting_Swedish = Шведский
 setting_Chinese = Китайский
 setting_Japanese = Японский
