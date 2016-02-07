@@ -321,8 +321,8 @@ itemdetail_per_hit = /удар
 itemdetail_explosive = ВЗРЫВ
 itemdetail_knockback = ОТТАЛКИВАНИЕ
 itemdetail_recycle_yield = РЕСУРСЫ НА ВЫХОДЕ
-itemdetail_researchable_tech = ТЕХ ИССЛЕДУЕМ
-itemdetail_researchable_bio = БИО ИССЛЕДУЕМ
+itemdetail_researchable_tech = ТЕХНИЧЕСКИ ИССЛЕДУЕМ
+itemdetail_researchable_bio = БИОЛОГИЧЕСКИ ИССЛЕДУЕМ
 
 item_name_broken = Сломанный
 item_name_wornout = Изношенный
