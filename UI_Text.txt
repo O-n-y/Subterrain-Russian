@@ -205,6 +205,7 @@ system_skip = Пропустить
 system_continue = Продолжить
 system_select = Выбрать
 system_confirm = Подтвердить
+system_Lv = Уровень
 
 system_time_day = Д 
 system_time_hour = Ч 
