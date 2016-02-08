@@ -572,12 +572,12 @@ combine_blueprint_title = Чертёж
 farm_title = Биосфера
 farm_controller = MPO БИОСФЕРА - УСКОРИТЕЛЬ
 farm_start = НАЧАТЬ ВЫРАЩИВАНИЕ
-farm_map_title = MPO Генетическая карта
+farm_map_title = Генетическая карта
 
 mine_title = Управление шахтой
 mine_controller = MPO ЭКСКАВАТОР ШАХТЫ
 mine_start = НАЧАТЬ ДОБЫЧУ
-mine_map_title = MPO Карта шахты
+mine_map_title = Карта шахты
 
 refine_title = Переработка руды
 refine_controller = СИСТЕМА ПЕРЕРАБОТКИ РУДЫ
@@ -625,7 +625,7 @@ gameover_survivaltime = Время выживания:
 gameover_mobskilled = Убито врагов:
 gameover_researchcompleted = Завершено исследований:
 
-map_title = КАРТА МАРСА
+map_title = Карта Марса
 map_select_location = Выберите локацию
 
 map_location_section = Секция
@@ -698,7 +698,7 @@ map_generator_connected = СОЕДИНЕН
 map_generator_disconnected = РАЗЪЕДИНЕН
 map_generator_probability = Вероятность
 map_generator_overheating = ПЕРЕГРЕВ!
-map_generator_reactormap_title = Статус модулей
+map_generator_reactormap_title = Статус реакторов
 map_generator_turretstatus = Статус турелей
 
 map_operator_3dprinter = 3D ПРИНТЕР
