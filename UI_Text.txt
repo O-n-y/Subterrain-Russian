@@ -34,6 +34,7 @@ setting_fog_intensity = Плотность тумана
 setting_light_intensity = Интенсивность освещения
 setting_outvision_intensity = Интенсивность освещения вне поля зрения
 setting_shadow_intensity = Интенсивность теней
+setting_minimap_intensity = Прозрачность миникарты
 setting_camera_mouse = Движение камеры по движению курсора
 setting_animated_fog = Анимация тумана
 setting_bloom = Эффект "Bloom"
