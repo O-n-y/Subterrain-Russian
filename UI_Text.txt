@@ -1,4 +1,4 @@
-mainmenu_continue = ПРОДОЛЖИТЬ
+﻿mainmenu_continue = ПРОДОЛЖИТЬ
 mainmenu_newgame = НОВАЯ ИГРА
 mainmenu_leaderboard = ТАБЛИЦА РЕКОРДОВ
 mainmenu_setting = НАСТРОЙКИ
@@ -60,6 +60,7 @@ setting_French = Французский
 setting_Spanish = Испанский
 setting_Italian = Итальянский
 setting_Swedish = Шведский
+setting_Greek = Греческий
 setting_Chinese = Китайский
 setting_Japanese = Японский
 setting_Other = Другой
