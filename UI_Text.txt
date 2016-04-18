@@ -508,6 +508,7 @@ slot_oxygen_generator = Генератор кислорода
 slot_temperature_regulator = Регулятор температуры
 slot_generator_reactor = Модуль генератора
 slot_generator_turret = Турель безопасности
+slot_purification_data = Данные обеззараживателя
 
 jobqueue_required_software = Требуется ПО
 jobqueue_no_more_queue = Очередь заполнена
@@ -776,7 +777,7 @@ speech_shuttle_no_fuel_no_nav = Работающий навигационный 
 speech_shuttle_no_nav = Работающий навигационный модуль не установлен.
 
 speech_purification_notready = Хм, не активируется.\n...Что я упустил?
-speech_purification_alreadyactivated = Переключатель уже активирован.\nОПМ очищается!
+speech_purification_alreadyactivated = Переключатель уже активирован.
 speech_purification_basementswitch_notready = ...Переключатель не работает.
 speech_purification_basementswitch_alreadyopened = Врата уже открыты.\nПора идти.
 
