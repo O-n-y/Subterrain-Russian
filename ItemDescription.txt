@@ -501,3 +501,7 @@
 500;Jennifer_Attack_Normal;(System weapon for Jennifer, Do not translate)
 501;Jennifer_Attack_Spread;(System weapon for Jennifer, Do not translate)
 502;Jennifer_Attack_Spread;(System weapon for Jennifer, Do not translate)
+503;Метод обеззараживания;Журнал - Метод обеззараживания
+504;План;Журнал - План
+505;Врата;Журнал - Врата
+506;Ловушка;Журнал - Ловушка
