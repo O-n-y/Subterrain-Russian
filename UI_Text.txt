@@ -15,7 +15,12 @@ mainmenu_exit_instruction = Выйти из игры
 releasenote_title = О версии:
 releasenote_closeinstruction = Нажмите любую клавишу/кнопку для закрытия
 
-demo_speech_unable = Я не могу использовать Метро!\nМне нужно купить игру!
+console_start_controller = Нажмите для начала
+console_start_keyboard = [ff0000]Нажмите[-] любую кнопку
+console_change_profile = Сменить профиль
+console_controller_disconnect = Контроллер не обнаружен.\n\n Пожалуйста, переподключите контроллер для продолжения.
+
+demo_speech_unable = Я не могу использовать метро!\nМне нужно купить игру!
 demo_notice_title = Демо уведомление
 demo_notice_content = Спасибо, что попробовали демо-версию игры Subterrain.\n\nПожалуйста, поддержите нас купив полную версию игры в Steam!\n\nСпасибо вам огромное!
 demo_notice_button = ОК!
@@ -43,8 +48,9 @@ setting_full_screen = Полноэкранный режим
 setting_vsync = Вертикальная синхронизация
 setting_light = Качество освещения
 setting_input_play = Устройства и игра
-setting_use_controller = Геймпад
+setting_use_controller = Контроллер
 setting_autotarget = Угол автоприцеливания
+setting_uiScale = Размер интерфейса
 setting_user_guide = Всплывающие окна обучения
 setting_auto_save = Автосохранение
 setting_language = Язык
@@ -103,7 +109,7 @@ leaderboard_find_top50 = Топ 50
 leaderboard_find_myrank = Рядом с моим рангом
 
 userguide_Keyboard_and_Mouse = Клавиатура и Мышь
-userguide_Controller = Геймпад
+userguide_Controller = Контроллер
 userguide_Tactical_panel = Тактическая экипировка
 userguide_Body_condition = Состояние тела
 userguide_Environment_panel = Окружение
