@@ -90,6 +90,7 @@ setting_keyboard_getitem = ВЗЯТЬ ВСЁ
 setting_keyboard_dodge = УВОРОТ
 setting_keyboard_zoom = МАСШТАБ КАМЕРЫ
 setting_keyboard_sprint = БЕГ
+setting_keyboard_sprint_toggle = ПЕРЕКЛЮЧЕНИЕ БЕГА
 setting_keyboard_slot1 = СЛОТ 1
 setting_keyboard_slot2 = СЛОТ 2
 setting_keyboard_slot3 = СЛОТ 3
@@ -665,8 +666,8 @@ map_location_Nilson engineering = Инженерия Нильсен
 map_location_MPO biosphere = ОПМ - Биосфера
 map_location_MPO mine = ОПМ - Шахта
 map_location_Herbert research = Научный центр Герберт
-
 map_location_Crash = Место крушения
+map_location_Murray mansion surface = Место крушения
 map_location_Murray mansion = Особняк Мюррея
 map_location_Murray mansion basement Murray = Нижний уровень 1
 map_location_Murray mansion basement Jennifer = Нижний уровень 2
