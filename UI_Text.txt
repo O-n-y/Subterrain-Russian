@@ -19,6 +19,8 @@ console_start_controller = Нажмите для начала
 console_start_keyboard = [ff0000]Нажмите[-] любую кнопку
 console_change_profile = Сменить профиль
 console_controller_disconnect = Контроллер не обнаружен.\n\n Пожалуйста, переподключите контроллер для продолжения.
+console_connection_error_title = Проблема с соединением интернета.
+console_connection_error = Имеются проблемы с соединением интернета.\nПроизойдёт возврат в главное меню.
 
 demo_speech_unable = Я не могу использовать метро!\nМне нужно купить игру!
 demo_notice_title = Демо уведомление
@@ -67,9 +69,10 @@ setting_Spanish = Испанский
 setting_Italian = Итальянский
 setting_Swedish = Шведский
 setting_Greek = Греческий
-setting_Chinese = Китайский
+setting_Chinese = Китайский (Трад.)
+setting_ChineseS = Китайский (Упр.)
 setting_Japanese = Японский
-setting_Other = Другой
+setting_Other = Корейский
 
 setting_keyboard_title = ПЕРЕНАЗНАЧЕНИЕ КЛАВИШ
 setting_keyboard_notice = НАЖМИТЕ\n\nКЛАВИШУ КЛАВИАТУРЫ\nКНОПКИ МЫШИ\nКОЛЕСО МЫШИ ВВЕРХ\nКОЛЕСО МЫШИ ВНИЗ\n\nДЛЯ НАЗНАЧЕНИЯ КЛАВИШИ\n\nНАЖМИТЕ ESC ДЛЯ ОТМЕНЫ
