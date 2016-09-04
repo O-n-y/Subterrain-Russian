@@ -9,10 +9,17 @@ Forum thread: http://steamcommunity.com/app/340490/discussions/2/615086038662590
 
 
 ## Над переводом работают (или когда-либо помогали):
-1. **DarelBlacK**    - http://steamcommunity.com/id/DarelBlacK
-2. **Ony**           - http://steamcommunity.com/id/oniki/
-3. **gornyakmaniac** - http://steamcommunity.com/id/gornyakmaniac/
-4. 
+1. **DarelBlacK**    - основной перевод\поддержка перевода под актуальную версию 
+Steam - http://steamcommunity.com/id/DarelBlacK
+
+2. **Ony**           - некоторые правки интерфейса\ресурс на GitHub 
+Steam - http://steamcommunity.com/id/oniki/
+
+3. **gornyakmaniac** - proofread версия для обучения\правки в интерфейсе 
+Steam - http://steamcommunity.com/id/gornyakmaniac/
+
+4. **zloywolf85**    - некоторые правки\перефразировка части текста 
+Steam - http://steamcommunity.com/profiles/76561198020252896
 
 
 
