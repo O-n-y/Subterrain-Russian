@@ -21,6 +21,12 @@ console_change_profile = Сменить профиль
 console_controller_disconnect = Контроллер не обнаружен.\n\n Пожалуйста, переподключите контроллер для продолжения.
 console_connection_error_title = Проблема с соединением интернета.
 console_connection_error = Имеются проблемы с соединением интернета.\nПроизойдёт возврат в главное меню.
+console_corrupted_config_title = Установочные файлы повреждены.
+console_corrupted_config_message = Установочные файлы повреждены.\n\nПроизойдет замена на файлы "по умолчанию".
+console_corrupted_save_title = Файлы сохранения повреждены.
+console_corrupted_save_message = Файлы сохранения повреждены.\n\nПовреждённые сохранения будут удалены.
+console_corrupted_save_message_title = Файлы сохранения повреждены.\n\nПовреждённые сохранения сначала будут удалены.
+console_corrupted_save_message_tryagain = Предпринята попытка восстановления сохранённых файлов игры.\n\nБудет произведена попытка перезаписи сохранённых файлов.
 
 demo_speech_unable = Я не могу использовать метро!\nМне нужно купить игру!
 demo_notice_title = Демо уведомление
